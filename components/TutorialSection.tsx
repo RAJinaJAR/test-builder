@@ -19,18 +19,12 @@ const TutorialSection: React.FC = () => {
 
         <div className="mt-6">
           <a
-            href="/sample-tests/test_package.zip"
-            download
+            href="https://test-player-ij8r.onrender.com/"
             className="inline-block bg-cyan-500 hover:bg-cyan-600 text-white font-semibold px-6 py-3 rounded-lg shadow-lg transition-colors duration-300"
           >
-            Download Sample Test
+            Take a Test!
           </a>
         </div>
-
-        {/* Instruction text */}
-        <p className="mt-4 text-md text-slate-300">
-          Upload this test file on the CTRM Test Builder to try it out.
-        </p>
       </div>
     </section>
   );
