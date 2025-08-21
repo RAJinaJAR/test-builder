@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Video Test Maker",
+  "description": "A landing page for a tool that creates interactive tests from any video by extracting frames and adding hotspots. Includes a feature showcase and a tutorial.",
+  "requestFramePermissions": []
+}
